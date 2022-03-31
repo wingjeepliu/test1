@@ -2,10 +2,10 @@ import { Route } from "express";
 
 newRout = ()=>{
 
-  console.log("test")
+  console.log("test eft")
 }
 newRout1 = ()=>{
-  console.log("test ")
+  console.log("test abc")
 }
 
 newRout2 = ()=>{
